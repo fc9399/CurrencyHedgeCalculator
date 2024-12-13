@@ -144,7 +144,7 @@ print(report)
 
 
 For a detailed tutorial and examples, refer to the vignette:
-- [Currency HedgeCalc Vignette (Jupyter Notebook)](./vignettes/vignette_hedgecalc.ipynb)
+- [Currency HedgeCalc Vignette (Jupyter Notebook)](https://github.com/fc9399/CurrencyHedgeCalculator/blob/main/vignettes/vignette_hedgecalc.ipynb)
 
 ---
 
